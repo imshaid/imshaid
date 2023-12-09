@@ -1,14 +1,32 @@
-[![An old rock in the desert](https://raw.githubusercontent.com/shaid30044/shaid30044/main/assest/Banner.gif)](https://www.linkedin.com/in/md-shaid-hasan-9172252a4)
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-shaid-hasan-9172252a4">
+    <img src="https://raw.githubusercontent.com/shaid30044/shaid30044/main/assest/Banner.gif" />
+  </a>
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shaid30044&theme=outrun&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
+## 📈 Current Stats
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=shaid30044&theme=transparent&hide_border=true" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 💻 Technologies that I know
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,tailwind,materialui,html,css" />
+    </br>
+    <img src="https://skillicons.dev/icons?i=firebase,vercel,nodejs,express,mongodb" />
+    </br>
+    <img src="https://skillicons.dev/icons?i=vscode,vite" />
+  </a>
+</p>
+
+## 👀 Current overview
+
+- 🌱 I’m exploring - Next.js
+- 👯 I’m looking - To collaborate on open source projects
+- 🤔 I’m trying - To improve my skills more
+- ⚡ Fun fact - Believer in the power of clean code and good coffee ☕

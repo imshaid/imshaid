@@ -26,7 +26,7 @@ Passionate Junior Front-End Developer 🚀 | React Enthusiast 💻 | Tailwind CS
     </br>
     <img src="https://skillicons.dev/icons?i=firebase,vercel,nodejs,express,mongodb" />
     </br>
-    <img src="https://skillicons.dev/icons?i=vscode,vite" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vite" />
   </a>
 </p>
 

@@ -28,7 +28,7 @@ Passionate Junior Front-End Developer 🚀 | React Enthusiast 💻 | Tailwind CS
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shaid30044&theme=transparent" width=320/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaid30044&theme=transparent" width=320/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shaid30044&theme=transparent&utcOffset=+06:00" width=320/>
-    <img src="https://streak-stats.demolab.com?user=shaid30044&theme=transparent&hide_border=true" width=100% />
+    <img src="https://streak-stats.demolab.com?user=shaid30044&theme=transparent&hide_border=true" />
 </p>
 
 ## 💻 Technologies

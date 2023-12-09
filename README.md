@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/md-shaid-hasan-9172252a4">
-    <img src="https://raw.githubusercontent.com/shaid30044/shaid30044/main/assest/Banner.gif" />
+    <img src="./assets/banner.gif" />
   </a>
 </p>
 

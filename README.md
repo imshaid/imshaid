@@ -24,7 +24,7 @@ Passionate Junior Front-End Developer 🚀 | React Enthusiast 💻 | Tailwind CS
 ## 📈 Current Stats
 
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=shaid30044&theme=transparent&hide_border=true" width=90% />
+    <img src="https://streak-stats.demolab.com?user=shaid30044&theme=transparent&hide_border=true" width=80% />
 </p>
 
 <p align="center">

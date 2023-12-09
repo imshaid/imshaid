@@ -1,9 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**shaid30044/shaid30044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![An old rock in the desert](https://raw.githubusercontent.com/shaid30044/shaid30044/main/assest/Banner.gif)]
 
-Here are some ideas to get you started:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shaid30044&theme=outrun&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->

@@ -1,6 +1,4 @@
-# Hi there 👋
-
-[![An old rock in the desert](https://raw.githubusercontent.com/shaid30044/shaid30044/main/assest/Banner.gif)]
+[![An old rock in the desert](https://raw.githubusercontent.com/shaid30044/shaid30044/main/assest/Banner.gif)](https://www.linkedin.com/in/md-shaid-hasan-9172252a4)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shaid30044&theme=outrun&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
 

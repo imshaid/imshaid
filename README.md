@@ -13,8 +13,20 @@ Passionate Junior Front-End Developer 🚀 | React Enthusiast 💻 | Tailwind CS
 ## 📈 Current Stats
 
 <p align="center">
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  </a>
+  </p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" />
+    </a>
+</p>
+
+<p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=shaid30044&theme=transparent&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=shaid30044&theme=transparent" />
   </a>
 </p>
 

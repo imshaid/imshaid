@@ -4,6 +4,12 @@
   </a>
 </p>
 
+## 👨‍💻 About Me
+
+<p align='center'>
+Passionate Junior Front-End Developer 🚀 | React Enthusiast 💻 | Tailwind CSS Wizard 🌈 | Firebase Fanatic 🔥 | Node.js Explorer 🌐 | MongoDB Maven 🍃 | Framer Motion Artist 🎨 | Code Alchemist ✨ | GitHub Voyager 🚢 | Next.js Adventurer 🛤️ | Crafting digital experiences with love and code! 💙 | Let's build the web together! 🌐✨
+</p>
+
 ## 📈 Current Stats
 
 <p align="center">
@@ -12,7 +18,7 @@
   </a>
 </p>
 
-## 💻 Technologies that I know
+## 💻 Technologies
 
 <p align="center">
   <a href="https://skillicons.dev">

@@ -4,10 +4,10 @@
   </a>
 </p>
 
-## 👨‍💻 About Me
+## 👨‍🚀 About Me
 
 <p align='center'>
-Passionate Junior Front-End Developer 🚀 | React Enthusiast 💻 | Tailwind CSS Wizard 🌈 | Firebase Fanatic 🔥 | Node.js Explorer 🌐 | MongoDB Maven 🍃 | Framer Motion Artist 🎨 | Code Alchemist ✨ | GitHub Voyager 🚢 | Next.js Adventurer 🛤️ | Crafting digital experiences with love and code! 💙 | Let's build the web together! 🌐✨
+CSE Student 🎓 | Robotics Enthusiast 🤖 | Pythonista 🐍 | Machine Learning & Deep Learning Explorer 🧠💻 | ROS2 Jazzy Wrangler 🛠️ | Kubuntu Tinkerer 🐧 | Neural Network Architect 🌐 | Former MERN Stack Dev 🌿 | OOP & Algo Lover 📐 | Research Rookie aiming to publish in 2025 📄🚀 | Building ideas where code meets creativity ✨🧩
 </p>
 
 ## 📫 Reach me out
@@ -21,7 +21,7 @@ Passionate Junior Front-End Developer 🚀 | React Enthusiast 💻 | Tailwind CS
   </a>
 </p>
 
-## 📈 Current Stats
+## 📈 GitHub Stats
 
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shaid30044&theme=transparent" width=320/>
@@ -31,21 +31,27 @@ Passionate Junior Front-End Developer 🚀 | React Enthusiast 💻 | Tailwind CS
   <img src="https://streak-stats.demolab.com?user=shaid30044&theme=transparent&hide_border=true" width=80% />
 </p>
 
-## 💻 Technologies
+## 🧠 Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,tailwind,materialui,html,css" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,git,github,linux,vscode,bash,figma" />
     </br>
-    <img src="https://skillicons.dev/icons?i=firebase,vercel,nodejs,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=ros,pytorch,tensorflow,opencv,sklearn,arduino,raspberrypi" />
     </br>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,vite" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,firebase,tailwind" />
+    </br>
+    <img src="https://skillicons.dev/icons?i=docker,vite,vercel" />
   </a>
 </p>
 
-## 👀 Current overview
+## 🔍 Current Focus
 
-- 🌱 I’m exploring - Next.js
-- 👯 I’m looking - To collaborate on open source projects
-- 🤔 I’m trying - To improve my skills more
-- ⚡ Fun fact - Believer in the power of clean code and good coffee ☕
+- 🤖 Robotics with **ROS2 Jazzy**, Linux (Kubuntu), and real-time systems
+- 🧠 Learning **ML/DL/NN** using PyTorch & TensorFlow
+- 💡 Exploring **OOP**, algorithm design, system architecture
+- 🧪 Preparing to publish my **first research paper** this year
+- 🔧 Former front-end focused, now system-level curious
+- ☕ Fueled by curiosity & caffeine
+
+---

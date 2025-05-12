@@ -4,11 +4,15 @@
   </a>
 </p>
 
+---
+
 ## 👨‍🚀 About Me
 
 <p align='center'>
 CSE Student 🎓 | Robotics Enthusiast 🤖 | Pythonista 🐍 | Machine Learning & Deep Learning Explorer 🧠💻 | ROS2 Jazzy Wrangler 🛠️ | Kubuntu Tinkerer 🐧 | Neural Network Architect 🌐 | Former MERN Stack Dev 🌿 | OOP & Algo Lover 📐 | Research Rookie aiming to publish in 2025 📄🚀 | Building ideas where code meets creativity ✨🧩
 </p>
+
+---
 
 ## 📫 Reach me out
 
@@ -21,6 +25,8 @@ CSE Student 🎓 | Robotics Enthusiast 🤖 | Pythonista 🐍 | Machine Learning
   </a>
 </p>
 
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -30,6 +36,8 @@ CSE Student 🎓 | Robotics Enthusiast 🤖 | Pythonista 🐍 | Machine Learning
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shaid30044&theme=transparent&utcOffset=+06:00" width=320/>
   <img src="https://streak-stats.demolab.com?user=shaid30044&theme=transparent&hide_border=true" width=80% />
 </p>
+
+---
 
 ## 🧠 Tech Stack
 
@@ -44,6 +52,8 @@ CSE Student 🎓 | Robotics Enthusiast 🤖 | Pythonista 🐍 | Machine Learning
     <img src="https://skillicons.dev/icons?i=docker,vite,vercel" />
   </a>
 </p>
+
+---
 
 ## 🔍 Current Focus
 

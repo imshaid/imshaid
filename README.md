@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/md-shaid-hasan-9172252a4">
-    <img src="https://raw.githubusercontent.com/shaid30044/shaid30044/main/banner.gif" />
+    <img src="https://raw.githubusercontent.com/imshaid/imshaid/main/banner.gif" />
   </a>
 </p>
 
@@ -24,10 +24,10 @@ CSE Student 🎓 | Robotics Enthusiast 🤖 | Pythonista 🐍 | Machine Learning
 ## 📈 GitHub Stats
 
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shaid30044&theme=transparent" width=320/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shaid30044&theme=transparent" width=320/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaid30044&theme=transparent" width=320/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shaid30044&theme=transparent&utcOffset=+06:00" width=320/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imshaid&theme=transparent" width=320/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imshaid&theme=transparent" width=320/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imshaid&theme=transparent" width=320/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imshaid&theme=transparent&utcOffset=+06:00" width=320/>
 </p>
 
 ## 🧠 Tech Stack

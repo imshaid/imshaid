@@ -7,48 +7,57 @@
 ## 👨‍🚀 About Me
 
 <p align='center'>
-CSE Student 🎓 | Robotics Enthusiast 🤖 | Pythonista 🐍 | Machine Learning & Deep Learning Explorer 🧠💻 | ROS2 Jazzy Wrangler 🛠️ | Kubuntu Tinkerer 🐧 | Neural Network Architect 🌐 | Former MERN Stack Dev 🌿 | OOP & Algo Lover 📐 | Research Rookie aiming to publish in 2025 📄🚀 | Building ideas where code meets creativity ✨🧩
+🎓 CSE Undergraduate | 🤖 Robotics Enthusiast | 🐍 Learning Python | 🧠💻 Future ML, DL & Neural Network Explorer | 🛠️ ROS 2 (Jazzy) Practitioner | 🐧 Ubuntu Enthusiast | 🌐 Tech Stack Integrator | 🌿 Former MERN Stack Developer | 📐 OOP & Algorithm Enthusiast | 📄🚀 Aspiring Researcher (Target: 2025 Publication) | ✨🧩 Exploring the Synergy of Code, Logic, and Innovation
 </p>
 
 ## 📫 Reach me out
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/md-shaid-hasan-9172252a4">
-    <img src="https://img.shields.io/badge/LinkedIn-blue" />
-  </a>
   <a href="https://www.facebook.com/shaid99912">
-    <img src="https://img.shields.io/badge/Facebook-blue" />
+    <img src="https://img.shields.io/badge/Facebook-white" />
+  </a>
+  <a href="https://www.linkedin.com/in/md-shaid-hasan-9172252a4">
+    <img src="https://img.shields.io/badge/LinkedIn-white" />
+  </a>
+  <a href="https://t.me/imsurjo">
+    <img src="https://img.shields.io/badge/Telegram-white" />
+  </a>
+  <a href="https://medium.com/@imshaid">
+    <img src="https://img.shields.io/badge/Medium-white" />
+  </a>
+  <a href="https://shaidhasan.netlify.app">
+    <img src="https://img.shields.io/badge/Website-white" />
   </a>
 </p>
 
 ## 📈 GitHub Stats
 
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imshaid&theme=transparent" width=320/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imshaid&theme=transparent" width=320/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imshaid&theme=transparent" width=320/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imshaid&theme=transparent&utcOffset=+06:00" width=320/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imshaid&theme=transparent"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imshaid&theme=transparent"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imshaid&theme=transparent"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imshaid&theme=transparent&utcOffset=6"/>
 </p>
 
 ## 🧠 Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,git,github,linux,vscode,bash,figma" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,java" />
     </br>
-    <img src="https://skillicons.dev/icons?i=ros,pytorch,tensorflow,opencv,sklearn,arduino,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,firebase,vercel" />
     </br>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,firebase,tailwind" />
+    <img src="https://skillicons.dev/icons?i=git,github,ubuntu,vscode,bash,figma" />
     </br>
-    <img src="https://skillicons.dev/icons?i=docker,vite,vercel" />
+    <img src="https://skillicons.dev/icons?i=ros,sklearn,raspberrypi,arduino,docker" />
   </a>
 </p>
 
 ## 🔍 Current Focus
 
-- 🤖 Robotics with **ROS2 Jazzy**, Linux (Kubuntu), and real-time systems
-- 🧠 Learning **ML/DL/NN** using PyTorch & TensorFlow
-- 💡 Exploring **OOP**, algorithm design, system architecture
-- 🧪 Preparing to publish my **first research paper** this year
-- 🔧 Former front-end focused, now system-level curious
-- ☕ Fueled by curiosity & caffeine
+- 🤖 Working with ROS 2 Jazzy, Ubuntu, and real-time robotic systems
+- 🧠 Learning Machine Learning, Deep Learning, and Neural Networks (PyTorch & TensorFlow)
+- 💡 Deepening knowledge in OOP, algorithm design, and system architecture
+- 🧪 Actively preparing to publish my first academic research paper in 2025
+- 🔧 Transitioned from front-end development to system-level engineering and robotics
+- ☕ Driven by curiosity, grounded in code, and occasionally powered by caffeine
